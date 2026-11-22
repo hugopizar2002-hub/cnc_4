@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "Supervisor CNC V4""      # Project title
+  title:        "Supervisor CNC V4"     # Project title
   author:       "Hugo pizano"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Supervisor CNC: detecta falta de pulsos de paso en X e Y (2 s)"      # One line description of what your project does
